@@ -1,16 +1,16 @@
-### Hi there 👋
+                                                ###   Hi 👋 I'm Gopala
 
-<!--
-**gopala1995/gopala1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+                                   A self-motivated Javascript developer from India:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on project built in MERN stack
+- 🌱 I’m currently learning full-Stack web development
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with OpenSource Contribution. Ping me, if you can guide me. Would be gratefull
+- 💬 Ask me about HTML, CSS ,Javascript, React, Mongodb, Express, Node.js
+- 📫 How to reach me: ggopala1904@gamil.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: two half is beter than one full
+
+ 
+
