@@ -1,7 +1,7 @@
                                                       Hi 👋 I'm Gopala
 
 
-                                   A self-motivated Javascript developer from India:
+                                   A self-motivated Javascript Web-developer from India:
 
 - 🔭 I’m currently working on project built in MERN stack
 - 🌱 I’m currently learning full-Stack web development
