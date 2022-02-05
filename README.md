@@ -1,4 +1,4 @@
-                                                ###   Hi 👋 I'm Gopala
+                                                      Hi 👋 I'm Gopala
 
 
                                    A self-motivated Javascript developer from India:
