@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with OpenSource Contribution. Ping me, if you can guide me. Would be gratefull
 - 💬 Ask me about HTML, CSS ,Javascript, React, Mongodb, Express, Node.js
 - 📫 How to reach me: ggopala1904@gamil.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: two half is beter than one full
 
 <h3 align="left">Connect with me:</h3>
