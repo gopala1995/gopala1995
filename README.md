@@ -5,12 +5,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopala1995&label=Profile%20views&color=0e75b6&style=flat" alt="gopala1995" /> </p>
 
-- 🔭 I’m currently working on project built in MERN stack
-- 🌱 I’m currently learning full-Stack web development
-- 🤔 I’m looking for help with OpenSource Contribution. Ping me, if you can guide me. Would be gratefull
-- 💬 Ask me about HTML, CSS ,Javascript, React, Mongodb, Express, Node.js
-- 📫 How to reach me: ggopala1904@gamil.com
-- ⚡ Fun fact: two half is beter than one full
+-
+- 🔭 I’m currently working on [https://copyflipcart.netlify.app/](https://github.com/snjakhar/Flipkart-Clone.git)
+
+- 🌱 I’m currently learning **Advance ReactJs ,NextJs**
+
+- 👨‍💻 All of my projects are available at [https://gopala1995.github.io/portfolio-Gopala/](https://gopala1995.github.io/portfolio-Gopala/)
+
+- 📝 I regularly write articles on [https://medium.com/@guptaraja727](https://medium.com/@guptaraja727)
+
+- 💬 Ask me about **react, expressJs,javascript,css**
+
+- 📫 How to reach me **gopala_fw11_053@masai.school**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HbRVBeFVk26zUlAhp3u7yl70RKX2xahP/view?usp=sharing](https://drive.google.com/file/d/1HbRVBeFVk26zUlAhp3u7yl70RKX2xahP/view?usp=sharing)
+
+- ⚡ Fun fact ** Two half is better than One full .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
