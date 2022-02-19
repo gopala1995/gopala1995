@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **react, expressJs,javascript,css**
 
-- 📫 How to reach me **gopala_fw11_053@masai.school**
+- 📫 How to reach me **ggopala1904@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HbRVBeFVk26zUlAhp3u7yl70RKX2xahP/view?usp=sharing](https://drive.google.com/file/d/1HbRVBeFVk26zUlAhp3u7yl70RKX2xahP/view?usp=sharing)
 
