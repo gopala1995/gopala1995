@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [https://copyflipcart.netlify.app/](https://github.com/snjakhar/Flipkart-Clone.git)
 
-- 🌱 I’m currently learning **Advance ReactJs ,Redux, Express, mongodbjs, Nodejs, mongoose**
+- 🌱 I’m currently learning **Advance ReactJs ,Redux, Expressjs, mongodb, Nodejs, mongoose**
 
 - 👨‍💻 All of my projects are available at [https://gopala1995.github.io/portfolio-Gopala/](https://gopala1995.github.io/portfolio-Gopala/)
 
