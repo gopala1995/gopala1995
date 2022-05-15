@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopala1995&label=Profile%20views&color=0e75b6&style=flat" alt="gopala1995" /> </p>
 
--
 - 🔭 I’m currently working on [https://copyflipcart.netlify.app/](https://github.com/snjakhar/Flipkart-Clone.git)
 
 - 🌱 I’m currently learning **Advance ReactJs ,NextJs**
