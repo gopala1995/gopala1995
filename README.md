@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [https://copyflipcart.netlify.app/](https://github.com/snjakhar/Flipkart-Clone.git)
 
-- 🌱 I’m currently learning **Advance ReactJs ,Redux, Expressjs, mongodb, Nodejs, mongoose**
+- 🌱 I’m currently learning **MERN-stack, Advance ReactJs ,Redux, Expressjs, mongodb, Nodejs, mongoose**
 
 - 👨‍💻 All of my projects are available at [https://gopala1995.github.io/portfolio-Gopala/](https://gopala1995.github.io/portfolio-Gopala/)
 
 - 📝 I regularly write articles on [https://medium.com/@guptaraja727](https://medium.com/@guptaraja727)
 
-- 💬 Ask me about **react, expressJs,javascript,css**
+- 💬 Ask me about **reactJS, expressJS, NodeJS, javascript, HTML, CSS**
 
 - 📫 How to reach me **ggopala1904@gmail.com**
 
