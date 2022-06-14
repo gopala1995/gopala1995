@@ -1,7 +1,7 @@
 
 
 <div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><h1>I am Gopala</h1></div>
-<h3 align="center" font-family="Roboto">An aspiring full-stack web developer from India</h3>
+<h3 align="center" font-family="Roboto">A full-stack web developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopala1995&label=Profile%20views&color=0e75b6&style=flat" alt="gopala1995" /> </p>
 
