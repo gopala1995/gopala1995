@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN-stack, Advance ReactJs ,Redux, Expressjs, mongodb, Nodejs, mongoose**
 
-- 👨‍💻 All of my projects are available at [https://gopala1995.github.io/portfolio-Gopala/](https://gopala1995.github.io/portfolio-Gopala/)
+- 👨‍💻 All of my projects are available at ([https://gopala1995.github.io/portfolio-Gopala/](https://gopala.vercel.app/))
 
 - 📝 I regularly write articles on [https://medium.com/@guptaraja727](https://medium.com/@guptaraja727)
 
