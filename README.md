@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ggopala1904@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HbRVBeFVk26zUlAhp3u7yl70RKX2xahP/view?usp=sharing](https://drive.google.com/file/d/1HbRVBeFVk26zUlAhp3u7yl70RKX2xahP/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1nmkakcGJqEvRIq1At89y5PfzynowpmC_?usp=sharing]
 
 - ⚡ Fun fact ** Two half is better than One full .**
 
