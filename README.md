@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@guptaraja727](https://medium.com/@guptaraja727)
 
-- 💬 Ask me about **reactJS, expressJS, NodeJS, javascript, HTML, CSS**
+- 💬 Ask me about **ReactJS, ExpressJS, NodeJS, javascript, HTML, CSS**
 
 - 📫 How to reach me **ggopala1904@gmail.com**
 
