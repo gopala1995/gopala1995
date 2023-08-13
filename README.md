@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopala1995&label=Profile%20views&color=0e75b6&style=flat" alt="gopala1995" /> </p>
 
-- 🔭 I’m currently working on [https://copyflipcart.netlify.app/](https://github.com/snjakhar/Flipkart-Clone.git)
 
-- 🌱 I’m currently working **MERN-stack, Advance NextJs/ReactJs ,Redux, Expressjs, mongodb, Nodejs, mongoose**
+- 🌱 I’m currently working **MERN-stack, Advance ReactJs, NextJs, NestJs, Redux, Expressjs, mongodb, Nodejs, mongoose**
 
 - 👨‍💻 All of my projects are available at ([https://gopala.vercel.app/)](https://gopala.vercel.app/)
 
